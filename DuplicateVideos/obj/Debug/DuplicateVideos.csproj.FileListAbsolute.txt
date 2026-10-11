@@ -1,0 +1,8 @@
+D:\Repositories\DuplicateVideos\DuplicateVideos\bin\Debug\DuplicateVideos.exe.config
+D:\Repositories\DuplicateVideos\DuplicateVideos\bin\Debug\DuplicateVideos.exe
+D:\Repositories\DuplicateVideos\DuplicateVideos\bin\Debug\DuplicateVideos.pdb
+D:\Repositories\DuplicateVideos\DuplicateVideos\obj\Debug\DuplicateVideos.csproj.AssemblyReference.cache
+D:\Repositories\DuplicateVideos\DuplicateVideos\obj\Debug\DuplicateVideos.csproj.CoreCompileInputs.cache
+D:\Repositories\DuplicateVideos\DuplicateVideos\obj\Debug\DuplicateVideos.exe
+D:\Repositories\DuplicateVideos\DuplicateVideos\obj\Debug\DuplicateVideos.pdb
+D:\Repositories\DuplicateVideos\DuplicateVideos\obj\Debug\DuplicateVideos.exe.config
